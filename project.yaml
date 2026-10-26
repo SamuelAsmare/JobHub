@@ -9,20 +9,20 @@
 schema: "1"
 
 # Your working title. You may change it later; keep this file up to date.
-title: "Campus Lost and Found"
+title: "JobHub"
 
 # One sentence: "An app that helps [users] to [do what] so that [benefit]."
-summary: "An app that helps students to report and find lost items on campus so that more of them are returned."
+summary: "A technology-driven employment platform that connects job seekers and employers through intelligent job matching, streamlined recruitment, and a unified professional network."
 
 members:
-  - name: "Abebe Kebede"              # full name, as in the student register
-    student_id: "UGR/0000/00"         # exactly as on your student ID card
-    email: "abebe.kebede@example.com" # an address you read every day
-    github: "abebe-kebede"            # your GitHub username, without @
-  - name: ""
-    student_id: ""
-    email: ""
-    github: ""
+  - name: "Samuel Asmare"              # full name, as in the student register
+    student_id: "UGR/0705/16"         # exactly as on your student ID card
+    email: "samuelasmare19@gmail.com" # an address you read every day
+    github: "SamuelAsmare"            # your GitHub username, without @
+  - name: "Melkamu Tsegaye"
+    student_id: "UGR/5993/16"
+    email: "melktsega77@gmail.com"
+    github: "Melk77"
   - name: ""
     student_id: ""
     email: ""
