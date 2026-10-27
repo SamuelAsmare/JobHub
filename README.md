@@ -1,2 +1,2 @@
 # JobHub
-A technology-driven employment platform that connects job seekers and employers through intelligent job matching, streamlined recruitment, and a unified professional network.
+An app that helps employers and job seekers to connect and match on job opportunities so that hiring and finding work becomes quick and simple.
